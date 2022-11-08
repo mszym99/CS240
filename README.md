@@ -1,1 +1,2 @@
 # CS240
+This course includes program development tools of the UNIX operating system and syntax and programming techniques of the C language in that environment. UNIX topics include interactive shells, common text editors, utility programs, file system structure, libraries and operating system calls and system programming. C topics include data types, structures, pointers and pointer arithmetic, arrays, linked lists, and function design and use. Programming projects are required.
